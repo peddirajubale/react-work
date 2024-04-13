@@ -1,0 +1,33 @@
+.container {
+    height: 100vh;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .light-container {
+    text-align: center;
+    font-family: 'Roboto';
+    padding: 30px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #000;
+    border-width: 2px;
+  }
+  .dark-container {
+    text-align: center;
+    font-family: 'Roboto';
+    padding: 30px;
+    border-radius: 15px;
+    background-color: #000;
+    color: #fff;
+  }
+  .btn {
+    padding: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #000;
+    border-width: 2px;
+  }
+  
